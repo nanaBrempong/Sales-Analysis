@@ -20,14 +20,20 @@ The analysis explores:
 # Key Insights
 
 •  Revenue Growth: Identified periods of significant sales spikes and their correlation with promotions or seasonal demand.
+
 •  Product Performance: Highlighted top-selling items and underperformers, suggesting potential for bundling or discontinuation.
+
 •  Customer Segmentation: Analyzed purchasing patterns to propose targeted marketing strategies.
+
 •  Geographic Trends: Mapped regional performance to inform distribution and inventory planning.
+
 
 # Tools & Technologies
 
 •  Python (pandas, matplotlib, seaborn)
+
 •  SQL (for data extraction and aggregation)
+
 
 
 # How to Use
@@ -35,9 +41,13 @@ The analysis explores:
 This repository is intended for:
 
 •  Showcasing data storytelling and analytical thinking
+
 •  Demonstrating proficiency in exploratory data analysis (EDA)
+
 •  Serving as a template for future business intelligence projects
+
 
 # Contact
 
 For questions or collaboration opportunities, feel free to reach out via LinkedIn or email.
+
