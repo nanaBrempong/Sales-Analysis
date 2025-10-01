@@ -7,10 +7,13 @@ This project presents a comprehensive analysis of sales performance across vario
 The analysis explores:
 
 •  Monthly and quarterly sales trends
-n/
+
 •  Top-performing products and categories
+
 •  Customer purchasing behavior
+
 •  Regional sales distribution
+
 •  Seasonal patterns and anomalies
 
 
